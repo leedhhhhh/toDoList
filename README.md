@@ -1,4 +1,4 @@
-07.22 에 리액트를 사용하여 만든 간단한 To Do List 이다. 입력, 삭제 기능까지만 구현하였다.
+07.22 에 리액트를 사용하여 만든 간단한 To Do List 이다. 입력, 삭제 기능까지만 구현하였다. 
 1. 화면 <br>
 ![todolist1](https://user-images.githubusercontent.com/86703459/180406025-bfbdca0b-1e11-4ff2-8822-ee5aed719a2e.PNG)
 
